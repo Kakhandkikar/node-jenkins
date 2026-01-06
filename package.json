@@ -1,0 +1,13 @@
+{
+  "name": "node-jenkins-demo",
+  "version": "1.0.0",
+  "description": "Lightweight Node.js app for Jenkins Node 18 and 20 testing",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "node app.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
